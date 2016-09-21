@@ -10,3 +10,5 @@ set hlsearch
 set ignorecase
 set smartcase
 set incsearch
+let mapleader = ','
+let NERDTreeMapOpenInTab='<ENTER>'
