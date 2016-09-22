@@ -5,10 +5,16 @@ syntax on
 
 set nu
 set autoindent
+set cindent
 set hlsearch
 set smartcase
 set incsearch
 set ignorecase
+set noerrorbells
+
+set tabstop=4
+set shiftwidth=4
+set expandtab
 
 let mapleader = ','
 let NERDTreeMapOpenInTab='<ENTER>'
