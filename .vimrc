@@ -1,7 +1,7 @@
 execute pathogen#infect()
 filetype plugin indent on
 colorscheme stereokai
-syntax on	
+syntax on   
 
 set nu
 set autoindent

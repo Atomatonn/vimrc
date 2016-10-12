@@ -1,0 +1,9 @@
+execute pathogen#infect()
+syntax on
+filetype plugin indent on
+
+set number
+set nu
+set tabstop=4
+set colorcolumn=80
+map <F2> :NERDTreeToggle<CR>
